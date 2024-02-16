@@ -15,5 +15,5 @@ spec:
         app: pet-deploy
     spec:
       containers:
-      - image: amitsharma20020508/devops:19
+      - image: amitsharma20020508/devops:5
         name: pet
